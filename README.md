@@ -24,6 +24,13 @@ Agora, basta digitar o comando abaixo, para rodar no localhost:3000
 Abra seu browser e acesse o link abaixo:
 [http://localhost:3000](http://localhost:3000)
 
+### Visual do Projeto finalizado
+
+<br />
+<p align="center">
+    <img src="src/img/projeto.jpeg" width="500" alt="Weather">
+    </p>
+
 
 ### Feito Com
 
